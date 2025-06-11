@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "expo start --web",
-    "build": "expo export:web",
+    "build": "expo export",
     "serve": "serve web-build",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
